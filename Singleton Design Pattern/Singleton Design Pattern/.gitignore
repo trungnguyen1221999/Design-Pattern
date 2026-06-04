@@ -1,13 +1,10 @@
-## --- [1] C# / .NET / Visual Studio Code Build Outputs ---
-[Bb]in/
-[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+**/.dotnet/
+**/project.lock.json
+**/project.fragment.lock.json
+**/artifacts/
 
-.dotnet/
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-## --- [2] VS Code Specific Files ---
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -16,19 +13,18 @@ artifacts/
 .history/
 *.code-workspace
 
-## --- [3] Rider / Visual Studio Temporary Files ---
 .idea/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/*.cache
+**/*.vsidx
 
-## --- [4] Nuget Packages ---
 *.nuget.props
 *.nuget.targets
-packages/
+**/packages/
 
-## --- [5] OS Specific (Windows / Mac) ---
 Thumbs.db
 ehthumbs.db
 Desktop.ini
