@@ -3,6 +3,6 @@
     <File Path=".gitignore" />
     <Project Path="../../Prototype Design Pattern/Prototype Design Pattern.csproj" />
   </Folder>
-  <Project Path="../../Factory Method Design Pattern/Factory Method Design Pattern.csproj" />
+  <Project Path="../../Factory Method Design Pattern/Factory Method Design Pattern/Factory Method Design Pattern.csproj" Id="d94e55cc-f9ed-49d9-841c-c1208a312c89" />
   <Project Path="Singleton Design Pattern/Singleton Design Pattern.csproj" />
 </Solution>
