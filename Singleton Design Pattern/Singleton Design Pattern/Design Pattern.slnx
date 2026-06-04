@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <Project Path="../../Prototype Design Pattern/Prototype Design Pattern.csproj" />
+  </Folder>
+  <Project Path="../../Factory Method Design Pattern/Factory Method Design Pattern.csproj" />
+  <Project Path="Singleton Design Pattern/Singleton Design Pattern.csproj" />
+</Solution>
